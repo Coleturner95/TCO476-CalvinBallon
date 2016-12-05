@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# TCO476-new5 Overview
+# TCO476-Calvin Balloon
 
-The **TCO476-new5** project tests the github pages documentation for a github repo.
+The **Calvin Balloon** project tests the github pages documentation for a github repo.
 
 
 <div class="home">
