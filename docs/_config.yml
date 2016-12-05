@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: My documentation test repo
-email: watson_rb@mercer.edu
+email: connor.veith@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This documentation project demonstrates how a Jekyll project in the /docs folder
   can be used to create a public documentation site in http://<account>.github.io/
-baseurl: "/TCO476-new5" # the subpath of your site, e.g. /blog
-url: "http://rbwatson.github.io/TCO476-new5" # the base hostname & protocol for your site
-twitter_username: bobwatsonphd
-github_username:  rbwatson
+baseurl: "/TCO476-CalvinBalloon" # the subpath of your site, e.g. /blog
+url: "http://Mode-One.github.io/TCO476-CalvinBalloon" # the base hostname & protocol for your site
+twitter_username: n/a
+github_username:  n/a
 include: ['pages']
 
 # Build settings
