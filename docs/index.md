@@ -9,6 +9,7 @@ This is the official documentation site for the **Calvin Balloon Project**. This
 
 ##Founding Members##
 James McNichols 
+&
 Spencer Penley
 
 ##Faculty Advisor##
