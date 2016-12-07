@@ -1,5 +1,5 @@
 ---
-layout: defalt
+layout: page
 title: High Altitude Balloon Project (Calvin 4)
 ---
 
