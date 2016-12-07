@@ -9,9 +9,9 @@ This is the official documentation site for the **Calvin Balloon Project**. This
 
 **[Project Overview Page](https://coleturner95.github.io/TCO476-CalvinBalloon/ProjectOverview/)**
 
-**[Project History Page](https://stackedit.io/editor)**
+**[Project History Page](https://coleturner95.github.io/TCO476-CalvinBalloon/Project%20History)**
 
-**[Project Documentation Library](https://stackedit.io/editor)**
+**[Project Documentation Library](https://coleturner95.github.io/TCO476-CalvinBalloon/Project%20Documentation%20Library.html)**
 
 
 
