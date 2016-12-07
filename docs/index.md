@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: High Altitude Balloon Project (Calvin 4)
 ---
 
