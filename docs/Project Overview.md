@@ -11,12 +11,19 @@ The Calvin Ballon is a high-altitude balloon responsible for future broadcasting
 # The Complexity of this Project
 The complexity of this project means that there will be several teams working concurrently, to develop the critical systems, which will need to be ready for each flight. These systems include:
 •	Primary computer package
+
 •	Live photography package
+
 •	Live videography package
+
 •	Recoverable videography and photography package
+
 •	Experiment support module
+
 •	Communications package
+
 •	Mission control
+
 •	Audiovisual beacon module
 
 # Summary of the Project #
