@@ -5,7 +5,9 @@ title: Home Page
 
 # TCO476-Calvin Balloon
 
-This is the official documentation site for the **Calvin Balloon Project**. This page will be the central hub of information concerning the maintenance of the Calvin 4 High Altitude Baloon.
+Welcome to the official documentation site for the **Calvin Balloon Project**. This page will be the central hub of information concerning the maintenance of the Calvin 4 High Altitude Baloon. 
+
+The goal of this website is to compile the project’s history and progress in order to ensure the project’s continuation far beyond the solar eclipse. Ultimately, we as a team hope that the technologies and skills developed here can continue to be used to provide students and researchers with low cost access to the nearest space environment for years to come.
 
 ## Founding Members ##
 James McNichols 
