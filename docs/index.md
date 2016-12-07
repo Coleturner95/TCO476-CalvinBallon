@@ -11,6 +11,4 @@ This is the official documentation site for the **Calvin Balloon Project**. This
 
 **[Project History Page](https://stackedit.io/editor)**
 
-**[Project Overview Page](https://stackedit.io/editor)**
-
 **[Project Documentation Library](https://stackedit.io/editor)**
