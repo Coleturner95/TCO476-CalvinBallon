@@ -7,13 +7,13 @@ title: Home Page
 
 This is the official documentation site for the **Calvin Balloon Project**. This page will be the central hub of information concerning the maintenance of the Calvin 4 High Altitude Baloon.
 
-##Founding Members##
+## Founding Members ##
 
 James McNichols 
 &
 Spencer Penley
 
-##Faculty Advisor##
+## Faculty Advisor ##
 
 Dr. Anthony Choi
 
