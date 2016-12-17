@@ -31,11 +31,11 @@ This page concerns the histroy of the Calvin Balloon Project. This will show pre
 [Senior Design Guide](https://www.dropbox.com/home/Calvin%20Balloon%20Project/Calvin%203/Class%20Files?preview=Class+Schedule.pdf)
 [Syllabus](https://www.dropbox.com/home/Calvin%20Balloon%20Project/Calvin%203/Class%20Files?preview=Syllabus+S2016.pdf)
 ## [Updates Folder](https://www.dropbox.com/home/Calvin%20Balloon%20Project/Calvin%203/Class%20Files/Updates) ##
-         1. [Development of a Low-Cost High Altitude Research Platform](https://www.dropbox.com/home/Calvin%20Balloon%20Project/Calvin%203/Class%20Files/Updates?preview=Development+of+a+Low-Cost+High+Altitude+Research+Platform.pptx)
-         2. [Final Update](https://www.dropbox.com/home/Calvin%20Balloon%20Project/Calvin%203/Class%20Files/Updates?preview=Final+Update.pptx)
-         3. [Project Update 2](https://www.dropbox.com/home/Calvin%20Balloon%20Project/Calvin%203/Class%20Files/Updates?preview=Project+Update+2.pptx)
-         4. [Update 3 Rev 2](https://www.dropbox.com/home/Calvin%20Balloon%20Project/Calvin%203/Class%20Files/Updates?preview=Update+3+Rev+2.pptx)
-         5. [Update Rev 3](https://www.dropbox.com/home/Calvin%20Balloon%20Project/Calvin%203/Class%20Files/Updates?preview=Update+3.pptx)
+   1. [Development of a Low-Cost High Altitude Research Platform](https://www.dropbox.com/home/Calvin%20Balloon%20Project/Calvin%203/Class%20Files/Updates?preview=Development+of+a+Low-Cost+High+Altitude+Research+Platform.pptx)
+   2. [Final Update](https://www.dropbox.com/home/Calvin%20Balloon%20Project/Calvin%203/Class%20Files/Updates?preview=Final+Update.pptx)
+   3. [Project Update 2](https://www.dropbox.com/home/Calvin%20Balloon%20Project/Calvin%203/Class%20Files/Updates?preview=Project+Update+2.pptx)
+   4. [Update 3 Rev 2](https://www.dropbox.com/home/Calvin%20Balloon%20Project/Calvin%203/Class%20Files/Updates?preview=Update+3+Rev+2.pptx)
+   5. [Update Rev 3](https://www.dropbox.com/home/Calvin%20Balloon%20Project/Calvin%203/Class%20Files/Updates?preview=Update+3.pptx)
 
            
          
